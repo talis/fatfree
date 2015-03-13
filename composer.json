@@ -13,6 +13,6 @@
 		}
 	],
 	"autoload": {
-		"files": ["lib/base.php"]
+    "classmap": ["lib/"]
 	}
 }
