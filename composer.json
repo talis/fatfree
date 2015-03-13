@@ -9,7 +9,7 @@
 	"repositories": [
 		{
 			"type": "vcs",
-			"url": "https://github.com/bcosca/fatfree"
+			"url": "https://github.com/talis/fatfree"
 		}
 	],
 	"autoload": {
